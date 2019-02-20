@@ -130,23 +130,23 @@ Aaron
  * Calf Raises 4 Sets x 10-12 Reps
 
 *Days 2 & 5* - **Pull**:
-  *A*: 
-     * Deadlift 3 Sets x 5-6 Reps
-     * Seated Pulley Row 7 Sets x 6-8 Reps
-     * Reverse Seated Row 7 Sets x 6-8 Reps 
-     * BB Curl 5 Sets x 6-8 Reps 
-     * Cable Hammer Curl 3 Sets x 8-10 Reps 
-     * Face Pulls 4 Sets x 10-12 Reps 
-     * Rear Delt Flyes 3 Sets x 10-12 Reps
-     * Shrugs 3 Sets 6-10 Reps 
-  *B*: 
-     * BB Row 7 Sets x 5-6 Reps
-     * Lat Pulldown 5 Sets x 10-12 Reps 
-     * DB Curl 3 Sets x 10-12 Reps
-     * DB Hammers 3 Sets x 10-12 Reps
-     * Preacher Curl 3 Sets x 12-15 Reps
-     * Rear Delt Cable Flyes 5 Sets x 6-10 Reps 
-     * Rear Delt Flyes 3 Sets x 10 Reps
+ *A*: 
+ * Deadlift 3 Sets x 5-6 Reps
+ * Seated Pulley Row 7 Sets x 6-8 Reps
+ * Reverse Seated Row 7 Sets x 6-8 Reps 
+ * BB Curl 5 Sets x 6-8 Reps 
+ * Cable Hammer Curl 3 Sets x 8-10 Reps 
+ * Face Pulls 4 Sets x 10-12 Reps 
+ * Rear Delt Flyes 3 Sets x 10-12 Reps
+ * Shrugs 3 Sets 6-10 Reps 
+ *B*: 
+ * BB Row 7 Sets x 5-6 Reps
+ * Lat Pulldown 5 Sets x 10-12 Reps 
+ * DB Curl 3 Sets x 10-12 Reps
+ * DB Hammers 3 Sets x 10-12 Reps
+ * Preacher Curl 3 Sets x 12-15 Reps
+ * Rear Delt Cable Flyes 5 Sets x 6-10 Reps 
+ * Rear Delt Flyes 3 Sets x 10 Reps
 
 *Days 3 & 6* - **Legs & Abs**: 
   *A*: 
