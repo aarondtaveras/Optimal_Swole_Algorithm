@@ -172,4 +172,5 @@ Enjoy the program!
  * Leg Curl 2 Sets x 12-15 Reps
  * Calf Raises 3 Sets x 12-15 Reps
  * Decline Crunches 3 Sets x 10-12 
- * Ab Machine 3 Sets x 8-10 * 1 Mile Jog (Untimed)
+ * Ab Machine 3 Sets x 8-10 
+ * 1 Mile Jog (Untimed)
