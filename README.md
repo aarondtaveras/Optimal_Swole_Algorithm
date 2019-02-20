@@ -14,7 +14,7 @@ For weeks 7-12, we'll be on a grueling 6 day split training each muscle group tw
 Enjoy the program!
 
 Aaron
-#Weeks 1 - 3 (4 Day Split):
+**--------Weeks 1 - 3 (4 Day Split)--------**
 
 *Day 1* - **Chest & Triceps**: 
 * Flat DB Press 3-4 Sets x 8-12 Reps
@@ -57,7 +57,7 @@ Aaron
 * Rear Delt Flyes 4 Sets 8-12 Reps 
 * Hammer Strength Shrugs 5 Sets x 6-10 Reps
 
-#Weeks 4 - 6 (5 Day Split):
+**--------Weeks 4 - 6 (5 Day Split)--------**
 
 *Day 1* - **Chest & Calves**: 
 * Flat BB Bench 5 Sets x (12,10,8,10,12) 
@@ -104,7 +104,7 @@ Aaron
 * Rear Delt Flyes 4 Sets x 10-12 Reps 
 * Hammer Strength Shrug 5 Sets x 6-10 Reps
 
-#Weeks 7-9 (6 Day Split):
+**--------Weeks 7-9 (6 Day Split)--------**
 
 *Days 1 & 4* - **Push**: 
  *A*: 
@@ -130,38 +130,38 @@ Aaron
 
 *Days 2 & 5* - **Pull**:
   *A*: 
-    * Deadlift 3 Sets x 5-6 Reps
-    * Seated Pulley Row 7 Sets x 6-8 Reps
-    * Reverse Seated Row 7 Sets x 6-8 Reps 
-    * BB Curl 5 Sets x 6-8 Reps 
-    * Cable Hammer Curl 3 Sets x 8-10 Reps 
-    * Face Pulls 4 Sets x 10-12 Reps 
-    * Rear Delt Flyes 3 Sets x 10-12 Reps
-    * Shrugs 3 Sets 6-10 Reps 
+     * Deadlift 3 Sets x 5-6 Reps
+     * Seated Pulley Row 7 Sets x 6-8 Reps
+     * Reverse Seated Row 7 Sets x 6-8 Reps 
+     * BB Curl 5 Sets x 6-8 Reps 
+     * Cable Hammer Curl 3 Sets x 8-10 Reps 
+     * Face Pulls 4 Sets x 10-12 Reps 
+     * Rear Delt Flyes 3 Sets x 10-12 Reps
+     * Shrugs 3 Sets 6-10 Reps 
   *B*: 
-    * BB Row 7 Sets x 5-6 Reps
-    * Lat Pulldown 5 Sets x 10-12 Reps 
-    * DB Curl 3 Sets x 10-12 Reps
-    * DB Hammers 3 Sets x 10-12 Reps
-    * Preacher Curl 3 Sets x 12-15 Reps
-    * Rear Delt Cable Flyes 5 Sets x 6-10 Reps 
-    * Rear Delt Flyes 3 Sets x 10 Reps
+     * BB Row 7 Sets x 5-6 Reps
+     * Lat Pulldown 5 Sets x 10-12 Reps 
+     * DB Curl 3 Sets x 10-12 Reps
+     * DB Hammers 3 Sets x 10-12 Reps
+     * Preacher Curl 3 Sets x 12-15 Reps
+     * Rear Delt Cable Flyes 5 Sets x 6-10 Reps 
+     * Rear Delt Flyes 3 Sets x 10 Reps
 
 *Days 3 & 6* - **Legs & Abs**: 
   *A*: 
-    * BB Squat 10 Sets x 5 Reps 
-    * Hack Squat 8 Sets x 6 Reps
-    * Leg Press 8 Sets x 6 Reps 
-    * Leg Curl 8 Sets x 10 Reps
-    * Leg Raises 3 Sets x Failure 
-    * Calf Raises 7 Sets x 5-6
-    * Step Machine 10 Minutes 
+     * BB Squat 10 Sets x 5 Reps 
+     * Hack Squat 8 Sets x 6 Reps
+     * Leg Press 8 Sets x 6 Reps 
+     * Leg Curl 8 Sets x 10 Reps
+     * Leg Raises 3 Sets x Failure 
+     * Calf Raises 7 Sets x 5-6
+     * Step Machine 10 Minutes 
   *B*: 
-    * BB Squat 4 Sets x 10 Reps
-    * Hack Squat 3 Sets x 10 Reps 
-    * Leg Press 3 Sets x 10 Reps
-    * Leg Extension 2 Sets x 12-15 Reps 
-    * Leg Curl 2 Sets x 12-15 Reps
-    * Calf Raises 3 Sets x 12-15 Reps
-    * Decline Crunches 3 Sets x 10-12 
-    * Ab Machine 3 Sets x 8-10 * 1 Mile Jog (Untimed)
+     * BB Squat 4 Sets x 10 Reps
+     * Hack Squat 3 Sets x 10 Reps 
+     * Leg Press 3 Sets x 10 Reps
+     * Leg Extension 2 Sets x 12-15 Reps 
+     * Leg Curl 2 Sets x 12-15 Reps
+     * Calf Raises 3 Sets x 12-15 Reps
+     * Decline Crunches 3 Sets x 10-12 
+     * Ab Machine 3 Sets x 8-10 * 1 Mile Jog (Untimed)
