@@ -108,6 +108,7 @@ Aaron
 **--------Weeks 7-9 (6 Day Split)--------**
 
 *Days 1 & 4* - **Push**: 
+ 
  *A*: 
   * Flat DB Press 7 Sets x 6-8 Reps
   * Incline DB Press 7 Sets x 6-8 Reps 
@@ -131,6 +132,7 @@ Aaron
  * Calf Raises 4 Sets x 10-12 Reps
 
 *Days 2 & 5* - **Pull**:
+ 
  *A*: 
  * Deadlift 3 Sets x 5-6 Reps
  * Seated Pulley Row 7 Sets x 6-8 Reps
@@ -150,6 +152,7 @@ Aaron
  * Rear Delt Flyes 3 Sets x 10 Reps
 
 *Days 3 & 6* - **Legs & Abs**: 
+ 
  *A*: 
  * BB Squat 10 Sets x 5 Reps 
  * Hack Squat 8 Sets x 6 Reps
