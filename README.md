@@ -106,7 +106,7 @@ Enjoy the program!
 * Rear Delt Flyes 4 Sets x 10-12 Reps 
 * Hammer Strength Shrug 5 Sets x 6-10 Reps
 
-**--------Weeks 7-9 (6 Day Split)--------**
+**--------Weeks 7-12 (6 Day Split)--------**
 
 *Days 1 & 4* - **Push**: 
  
