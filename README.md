@@ -1,19 +1,20 @@
 # Optimal_Swole_Algorithm
 A simple markdown file containing a self-created workout regimen centered around mass gain. May add more resources and links as we go along.
 
-#The Optimal Mass Gaining Algorithm
+***The Optimal Mass Gaining Algorithm***
 
-This regimen is a 12 week mass gaining regimen designed by me that ramps up the difficulty as we go along to keep our body confused and the muscle growth coming.
+This regimen is a 12 week *mass gaining* regimen designed by **me** that ramps up the difficulty as we go along to keep our body confused and the muscle growth coming.
 
 We start with a 4 day split for 3 weeks to give our body ample recovery time and to let our body adjust to our nutrition.
 
 For the next 3 weeks we then ramp up to a 5 day split, spending a full session on each muscle group.
 
-For weeks 7-12, we'll be on a grueling 6 day split training each muscle group twice per week. We choose to give our body time to adjust to the added intensity by sticking out the last 6 weeks, hoping to achieve optimal growth and a lot of strength gain as well. Throughout those 6 weeks, our calorie count needs to increase by 500.
+For weeks 7-12, we'll be on a grueling 6 day split training each muscle group twice per week. We choose to give our body time to adjust to the added intensity by sticking out the last 6 weeks, hoping to achieve optimal growth and a lot of strength gain as well. 
+*Throughout those 6 weeks, our calorie count needs to increase by at least 20% 500 to account for our increase in intensity.*
 
 Enjoy the program!
 
-Aaron
+- *Aaron*
 
 **--------Weeks 1 - 3 (4 Day Split)--------**
 
