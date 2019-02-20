@@ -142,6 +142,7 @@ Aaron
  * Face Pulls 4 Sets x 10-12 Reps 
  * Rear Delt Flyes 3 Sets x 10-12 Reps
  * Shrugs 3 Sets 6-10 Reps 
+ 
  *B*: 
  * BB Row 7 Sets x 5-6 Reps
  * Lat Pulldown 5 Sets x 10-12 Reps 
