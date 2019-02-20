@@ -14,6 +14,7 @@ For weeks 7-12, we'll be on a grueling 6 day split training each muscle group tw
 Enjoy the program!
 
 Aaron
+
 **--------Weeks 1 - 3 (4 Day Split)--------**
 
 *Day 1* - **Chest & Triceps**: 
