@@ -118,6 +118,7 @@ Aaron
   * DB Tricep Overhead 4 Sets x 8-12 Reps 
   * Dips 4 Sets x Failure 
   * Calf Raises 7 Sets x 5-8 Reps 
+ 
  *B*: 
  * Flat BB Bench 3 Sets x 8-12 Reps 
  * Incline BB Press 3 Sets x 8-12 Reps
@@ -149,20 +150,21 @@ Aaron
  * Rear Delt Flyes 3 Sets x 10 Reps
 
 *Days 3 & 6* - **Legs & Abs**: 
-  *A*: 
-     * BB Squat 10 Sets x 5 Reps 
-     * Hack Squat 8 Sets x 6 Reps
-     * Leg Press 8 Sets x 6 Reps 
-     * Leg Curl 8 Sets x 10 Reps
-     * Leg Raises 3 Sets x Failure 
-     * Calf Raises 7 Sets x 5-6
-     * Step Machine 10 Minutes 
-  *B*: 
-     * BB Squat 4 Sets x 10 Reps
-     * Hack Squat 3 Sets x 10 Reps 
-     * Leg Press 3 Sets x 10 Reps
-     * Leg Extension 2 Sets x 12-15 Reps 
-     * Leg Curl 2 Sets x 12-15 Reps
-     * Calf Raises 3 Sets x 12-15 Reps
-     * Decline Crunches 3 Sets x 10-12 
-     * Ab Machine 3 Sets x 8-10 * 1 Mile Jog (Untimed)
+ *A*: 
+ * BB Squat 10 Sets x 5 Reps 
+ * Hack Squat 8 Sets x 6 Reps
+ * Leg Press 8 Sets x 6 Reps 
+ * Leg Curl 8 Sets x 10 Reps
+ * Leg Raises 3 Sets x Failure 
+ * Calf Raises 7 Sets x 5-6
+ * Step Machine 10 Minutes 
+ 
+ *B*: 
+ * BB Squat 4 Sets x 10 Reps
+ * Hack Squat 3 Sets x 10 Reps 
+ * Leg Press 3 Sets x 10 Reps
+ * Leg Extension 2 Sets x 12-15 Reps 
+ * Leg Curl 2 Sets x 12-15 Reps
+ * Calf Raises 3 Sets x 12-15 Reps
+ * Decline Crunches 3 Sets x 10-12 
+ * Ab Machine 3 Sets x 8-10 * 1 Mile Jog (Untimed)
